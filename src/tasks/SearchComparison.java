@@ -67,10 +67,6 @@ public class SearchComparison {
     }
 
     public static void search(String[] args) {
-        if (args.length < 2) {
-            System.out.println("Please provide input and output file paths");
-            return;
-        }
 
         String inputFile = args[0];
         String outputFile = args[1];
