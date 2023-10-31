@@ -1,0 +1,3 @@
+Average Comparisons for Sequential Search: 5.5
+Average Comparisons for Binary Search: 2.9
+Average Comparisons for Interpolation Search: 1.0
